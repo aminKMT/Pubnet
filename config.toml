@@ -1,5 +1,5 @@
 theme = "hugo-theme-air"
 baseURL = "/"
 languageCode = "en-us"
-title = "PubNet"
+title = "PubNet(Publication Network)"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]  
