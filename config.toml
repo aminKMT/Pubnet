@@ -3,3 +3,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "PubNet(Publication Network)"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]  
+
+[permalinks]
+    post ="/:year/;month/:day/:slug/"
+
