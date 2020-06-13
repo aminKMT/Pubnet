@@ -1,7 +1,7 @@
 ---
 title: "About Website"
 author: "Amin"
-date: "June 12, 2020"
+date: "2020-06-12"
 output: html_document
 ---
 
