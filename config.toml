@@ -12,11 +12,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   description = "Publication Network"
-  cover = "static/images/num.jpg"
+  cover = "images/num.jpg"
   author = "A.K"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
-  logo = "images/user.png"
+  logo = ""
 # here is the [homework](..crap/homewoerl.zip) make link in Rmd file. 
 
