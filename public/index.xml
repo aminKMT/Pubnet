@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PubNet(Publication Network)</title>
+    <title>PubNet</title>
     <link>/</link>
-    <description>Recent content on PubNet(Publication Network)</description>
+    <description>Recent content on PubNet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
@@ -13,29 +13,29 @@
     
     <item>
       <title>About Website</title>
-      <link>/2020/month/12/about-website/</link>
+      <link>/post/2020/06/12/about-website/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/month/12/about-website/</guid>
+      <guid>/post/2020/06/12/about-website/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
     </item>
     
     <item>
       <title>Let&#39;s Publish Together </title>
-      <link>/2020/month/12/let-s-publish-together/</link>
+      <link>/post/2020/06/12/let-s-publish-together/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/month/12/let-s-publish-together/</guid>
+      <guid>/post/2020/06/12/let-s-publish-together/</guid>
       <description>This is awsome! sd;lsfsfs;;fsf;slfsfs;lF Al;sjsaJDAJDAJDAJDAJ&#39;DAd aOSSAJJADJAjdaOJDADA&#39;da aOSDJSAodjaDADOAJDAO&#39;Dd qOSDSAJjaojaaDOAsd</description>
     </item>
     
     <item>
       <title>sample</title>
-      <link>/2017/month/01/test/</link>
+      <link>/post/2017/01/01/test/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/month/01/test/</guid>
+      <guid>/post/2017/01/01/test/</guid>
       <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
  Below you will find some of the most common and helpful pages from our documentation.
  https://gohugo.io/documentation/</description>
@@ -43,10 +43,10 @@ When you click the Knit button a document will be generated that includes both c
     
     <item>
       <title>test post</title>
-      <link>/2016/month/01/test/</link>
+      <link>/post/2016/01/01/test/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/month/01/test/</guid>
+      <guid>/post/2016/01/01/test/</guid>
       <description>echo &amp;#34;hello world !!&amp;#34; </description>
     </item>
     

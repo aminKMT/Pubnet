@@ -1,9 +1,22 @@
 theme = "hugo-theme-air"
 baseURL = "/"
 languageCode = "en-us"
-title = "PubNet(Publication Network)"
+title = "PubNet"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]  
 
+[author]
+  name = "A.K"
+
 [permalinks]
-    post ="/:year/;month/:day/:slug/"
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "Publication Network"
+  cover = "static/images/num.jpg"
+  author = "A.K"
+  authorlocation = ""
+  authorwebsite = "https://syui.cf/hugo-theme-air"
+  bio= "my bio"
+  logo = "images/user.png"
+# here is the [homework](..crap/homewoerl.zip) make link in Rmd file. 
 
