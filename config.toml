@@ -9,8 +9,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/post/:year/:month/:day/:slug"
-    About Me= "/public/About Me"
 
+ 
 [params]
   description = "Publication Network"
   cover = "images/num.jpg"
@@ -19,5 +19,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
   logo = ""
+  Aboutme = "/AboutMe/About Me"
 # here is the [homework](..crap/homewoerl.zip) make link in Rmd file. 
 
