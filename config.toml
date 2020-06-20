@@ -19,6 +19,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   authorwebsite = "https://syui.cf/hugo-theme-air"
   bio= "my bio"
   logo = ""
-  Aboutme = "/AboutMe/About Me"
+  Aboutme = "/AboutMe/About Me.Rmd"
 # here is the [homework](..crap/homewoerl.zip) make link in Rmd file. 
 
